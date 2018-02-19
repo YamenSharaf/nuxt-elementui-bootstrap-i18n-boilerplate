@@ -1,0 +1,30 @@
+body ::selection,
+html ::selection {
+  background-color: $color-primary !important;
+  color: $color-white !important;
+}
+
+body {
+  background: $color-white;
+  position: relative !important;
+}
+
+.page-wrapper {
+  min-height: calc(100vh - 58.81px);
+}
+
+.app-wrapper {
+  min-height: 80vh;
+}
+
+.navbar--active {
+  color: $color-primary !important;
+}
+
+.fill-90 {
+  height: 90vh;
+}
+
+.full-height {
+  min-height: 100vh !important;
+}

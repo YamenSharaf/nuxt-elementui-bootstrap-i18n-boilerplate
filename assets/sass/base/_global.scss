@@ -1,0 +1,60 @@
+.el-button {
+  .fa {
+    margin-right: .5rem;
+    font-size: 1rem;
+  }
+}
+
+html {
+  font-size: 14px !important;
+}
+
+.text-instagram {
+  color: $color-instagram !important;
+}
+
+.bg-instagram {
+  background-color: $color-instagram !important;
+  color: $color-white;
+}
+
+.text-twitter {
+  color: $color-twitter !important;
+}
+
+.bg-twitter {
+  background-color: $color-twitter !important;
+  color: $color-white;
+}
+
+.text-pinterest {
+  color: $color-pinterest !important;
+}
+
+.bg--pinterest {
+  background-color: $color-pinterest !important;
+  color: $color-white;
+}
+
+.text-facebook {
+  color: $color-facebook !important;
+}
+
+.bg-facebook {
+  background-color: $color-facebook !important;
+  color: $color-white;
+}
+
+
+.text-youtube {
+  color: $color-youtube !important;
+}
+
+.bg-youtube {
+  background-color: $color-youtube !important;
+  color: $color-white;
+}
+
+.badge-pill {
+  border-radius: 10rem;
+}

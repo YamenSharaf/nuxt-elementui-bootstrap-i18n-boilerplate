@@ -1,0 +1,12 @@
+.dialog-modal {
+  width: 40%;
+  @include media-breakpoint-down(lg) {
+    width: 80%;
+  }
+  @include media-breakpoint-down(md) {
+    width: 70%;
+  }
+  @include media-breakpoint-down(xs) {
+    width: 90%;
+  }
+}

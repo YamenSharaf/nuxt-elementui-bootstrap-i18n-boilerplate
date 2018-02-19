@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "المنزل",
+    "about": "About",
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "home": {
+    "title": " بويلربليت متعدد اللغات ",
+    "introduction": "بوتستراب، إليمينت يو آي وناكست"
+  },
+  "about": {
+    "title": "About",
+    "introduction": "هي دي الآباوت"
+  }
+}

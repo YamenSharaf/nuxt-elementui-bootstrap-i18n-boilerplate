@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "إنجليش",
+    "arabic": "عربي"
+  },
+  "home": {
+    "title": "Nuxt/ ElementUI/ Bootstrap boilerplate",
+    "introduction": "Basic Nuxt app integrated with Bootstrap / ElementUI/ i18n"
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  }
+}

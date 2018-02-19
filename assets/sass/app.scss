@@ -1,0 +1,13 @@
+// Base
+@import './base/vars';
+@import './base/main';
+@import './base/global';
+@import './base/helpers';
+
+// Vendors
+@import './vendors/bootstrap/index';
+@import './vendors/element-ui/index';
+@import './vendors/vue2-animate/transition';
+
+// Components
+@import './components/index';

@@ -1,0 +1,85 @@
+// Text Helpers
+
+.font-regular {
+  font-weight: normal !important;
+}
+
+.text-gray {
+  color: #757575 !important;
+}
+
+.bg-gray {
+  background-color: #eee !important;
+}
+
+.bg-black {
+  background-color: #000 !important;
+}
+
+.bg-primary-light {
+  background-color: lighten($color-primary, 57%) !important;
+}
+
+.text-gray-dark {
+  color: #616161 !important;
+}
+
+.h7 {
+  font-size: 1.7rem !important;
+}
+
+.h8 {
+  font-size: 1.5rem !important;
+}
+
+.h9 {
+  font-size: 1.2rem !important;
+}
+
+.h10 {
+  font-size: 1.1rem !important;
+}
+
+.text-bold {
+  font-weight: bold !important;
+}
+
+
+// Alignment Helpers
+
+.flex-center {
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.justify-center {
+  justify-content: center !important;
+}
+
+.align-center {
+  align-items: center !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.mt-a-lot {
+  margin-top: 12rem !important;
+}
+
+.mb-a-lot {
+  margin-bottom: 12rem !important;
+}
+
+.pt-a-lot {
+  padding-top: 12rem !important;
+}
+
+.pb-a-lot {
+  padding-bottom: 12rem !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
