@@ -1,7 +1,7 @@
 {
-  "name": "job-finder-frontend",
+  "name": "nuxt-elementui-bootstrap-i18n-boilerplate",
   "version": "1.0.0",
-  "description": "Find your next job",
+  "description": "A boilerplate ready to start developing Vue apps using Nuxt/ Element-UI/ Vuex/ Bootstrap/ i18n. Express.js also integrated to this can be a full stack app as well",
   "author": "Yamen Sharaf",
   "private": true,
   "scripts": {

@@ -1,6 +1,6 @@
-# job-finder-frontend
+# nuxt-elementui-bootstrap-i18n-boilerplate
 
-> My marvelous Nuxt.js project
+> A boilerplate ready to start developing Vue apps using Nuxt/ Element-UI/ Vuex/ Bootstrap/ i18n. Express.js also integrated to this can be a full stack app as well
 
 ## Build Setup
 
